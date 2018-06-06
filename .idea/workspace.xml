@@ -2,248 +2,366 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bace9e9-379f-4692-860c-7a3eba29e0c8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/joomla-dockerio.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/COPYRIGHT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/CREDITS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/INSTALL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/LICENSES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/application/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/application/defines.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/application/framework.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/application/router.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/application/web.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/cache/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/configuration.php-dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/database.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/detectftproot.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/ftp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/install/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/install/database.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/install/database_backup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/install/database_remove.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/install/email.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/install/languages.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/install/sample.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/preinstall.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/removefolder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/setdefaultlanguage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/setlanguage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/site.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/summary.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/controller/verifyftpsettings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/form/field/language.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/form/field/prefix.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/form/field/sample.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/form/rule/prefix.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/helper/database.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/html/helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/af-ZA/af-ZA.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/af-ZA/af-ZA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ar-AA/ar-AA.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ar-AA/ar-AA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/be-BY/be-BY.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/be-BY/be-BY.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/bg-BG/bg-BG.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/bg-BG/bg-BG.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/bn-BD/bn-BD.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/bn-BD/bn-BD.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/bs-BA/bs-BA.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/bs-BA/bs-BA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ca-ES/ca-ES.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ca-ES/ca-ES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ckb-IQ/ckb-IQ.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ckb-IQ/ckb-IQ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/cs-CZ/cs-CZ.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/cs-CZ/cs-CZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/cy-GB/cy-GB.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/cy-GB/cy-GB.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/da-DK/da-DK.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/da-DK/da-DK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-AT/de-AT.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-AT/de-AT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-CH/de-CH.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-CH/de-CH.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-DE/de-DE.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-DE/de-DE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-LI/de-LI.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-LI/de-LI.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-LU/de-LU.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/de-LU/de-LU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/dz-BT/dz-BT.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/dz-BT/dz-BT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/el-GR/el-GR.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/el-GR/el-GR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-AU/en-AU.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-AU/en-AU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-CA/en-CA.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-CA/en-CA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-GB/en-GB.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-GB/en-GB.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-NZ/en-NZ.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-NZ/en-NZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-US/en-US.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/en-US/en-US.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/eo-XX/eo-XX.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/eo-XX/eo-XX.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/es-CO/es-CO.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/es-CO/es-CO.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/es-ES/es-ES.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/es-ES/es-ES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/et-EE/et-EE.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/et-EE/et-EE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/eu-ES/eu-ES.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/eu-ES/eu-ES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/fa-IR/fa-IR.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/fa-IR/fa-IR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/fi-FI/fi-FI.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/fi-FI/fi-FI.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/fr-CA/fr-CA.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/fr-CA/fr-CA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/fr-FR/fr-FR.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/fr-FR/fr-FR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ga-IE/ga-IE.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ga-IE/ga-IE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/gl-ES/gl-ES.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/gl-ES/gl-ES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/he-IL/he-IL.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/he-IL/he-IL.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/hi-IN/hi-IN.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/hi-IN/hi-IN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/hr-HR/hr-HR.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/hr-HR/hr-HR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/hu-HU/hu-HU.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/hu-HU/hu-HU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/hy-AM/hy-AM.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/hy-AM/hy-AM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/id-ID/id-ID.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/id-ID/id-ID.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/it-IT/it-IT.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/it-IT/it-IT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ja-JP/ja-JP.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ja-JP/ja-JP.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ka-GE/ka-GE.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ka-GE/ka-GE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/km-KH/km-KH.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/km-KH/km-KH.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ko-KR/ko-KR.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ko-KR/ko-KR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/lv-LV/lv-LV.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/lv-LV/lv-LV.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/mk-MK/mk-MK.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/mk-MK/mk-MK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ms-MY/ms-MY.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ms-MY/ms-MY.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/nb-NO/nb-NO.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/nb-NO/nb-NO.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/nl-NL/nl-NL.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/nl-NL/nl-NL.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/nn-NO/nn-NO.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/nn-NO/nn-NO.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/pl-PL/pl-PL.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/pl-PL/pl-PL.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/prs-AF/prs-AF.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/prs-AF/prs-AF.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/pt-BR/pt-BR.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/pt-BR/pt-BR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/pt-PT/pt-PT.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/pt-PT/pt-PT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ro-RO/ro-RO.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ro-RO/ro-RO.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ru-RU/ru-RU.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ru-RU/ru-RU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/si-LK/si-LK.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/si-LK/si-LK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sk-SK/sk-SK.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sk-SK/sk-SK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sl-SI/sl-SI.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sl-SI/sl-SI.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sr-RS/sr-RS.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sr-RS/sr-RS.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sr-YU/sr-YU.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sr-YU/sr-YU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/srp-ME/srp-ME.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/srp-ME/srp-ME.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sv-SE/sv-SE.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sv-SE/sv-SE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sw-KE/sw-KE.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sw-KE/sw-KE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sy-IQ/sy-IQ.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/sy-IQ/sy-IQ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ta-IN/ta-IN.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ta-IN/ta-IN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/th-TH/th-TH.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/th-TH/th-TH.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/tk-TM/tk-TM.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/tk-TM/tk-TM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/tr-TR/tr-TR.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/tr-TR/tr-TR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ug-CN/ug-CN.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/ug-CN/ug-CN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/uk-UA/uk-UA.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/uk-UA/uk-UA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/vi-VN/vi-VN.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/vi-VN/vi-VN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/zh-CN/zh-CN.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/zh-CN/zh-CN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/zh-TW/zh-TW.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/language/zh-TW/zh-TW.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/localise.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/configuration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/database.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/forms/database.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/forms/defaultlanguage.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/forms/ftp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/forms/preinstall.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/forms/site.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/forms/summary.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/ftp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/languages.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/model/setup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/response/json.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/mysql/joomla.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/mysql/sample_blog.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/mysql/sample_brochure.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/mysql/sample_data.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/mysql/sample_learn.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/postgresql/joomla.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/postgresql/sample_blog.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/postgresql/sample_brochure.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/postgresql/sample_data.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/postgresql/sample_learn.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/sqlazure/joomla.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/sqlazure/sample_blog.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/sqlazure/sample_brochure.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/sqlazure/sample_data.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/sql/sqlazure/sample_learn.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/template/body.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/template/css/template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/template/css/template_rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/template/images/joomla.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/template/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/template/js/installation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/complete/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/complete/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/database/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/defaultlanguage/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/defaultlanguage/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/ftp/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/install/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/install/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/languages/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/languages/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/preinstall/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/preinstall/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/remove/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/remove/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/site/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/summary/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/installation/view/summary/tmpl/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robots.txt.dist" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/joomla-docker.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/install.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_admin.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_admin.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_ajax.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_ajax.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_associations.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_associations.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_banners.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_banners.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_cache.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_cache.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_categories.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_categories.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_checkin.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_checkin.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_config.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_config.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_contact.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_contact.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_content.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_content.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_contenthistory.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_contenthistory.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_cpanel.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_cpanel.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_fields.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_fields.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_finder.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_finder.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_installer.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_installer.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_joomlaupdate.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_joomlaupdate.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_languages.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_languages.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_login.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_login.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_mailto.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_media.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_media.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_menus.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_menus.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_messages.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_messages.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_modules.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_modules.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_newsfeeds.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_newsfeeds.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_plugins.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_plugins.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_postinstall.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_postinstall.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_redirect.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_redirect.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_search.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_search.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_tags.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_tags.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_templates.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_templates.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_users.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_users.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_weblinks.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_weblinks.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_wrapper.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.com_wrapper.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.lib_joomla.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.localise.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_custom.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_custom.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_feed.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_feed.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_latest.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_latest.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_logged.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_logged.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_login.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_login.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_menu.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_menu.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_multilangstatus.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_multilangstatus.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_popular.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_popular.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_quickicon.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_quickicon.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_sampledata.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_sampledata.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_stats_admin.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_stats_admin.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_status.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_status.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_submenu.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_submenu.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_title.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_title.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_toolbar.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_toolbar.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_version.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.mod_version.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_authentication_cookie.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_authentication_cookie.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_authentication_gmail.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_authentication_gmail.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_authentication_joomla.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_authentication_joomla.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_authentication_ldap.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_authentication_ldap.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_captcha_recaptcha.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_captcha_recaptcha.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_contact.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_contact.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_emailcloak.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_emailcloak.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_fields.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_fields.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_finder.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_finder.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_joomla.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_joomla.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_loadmodule.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_loadmodule.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_pagebreak.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_pagebreak.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_pagenavigation.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_pagenavigation.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_vote.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_content_vote.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_article.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_article.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_contact.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_contact.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_fields.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_fields.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_image.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_image.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_menu.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_menu.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_module.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_module.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_pagebreak.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_pagebreak.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_readmore.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors-xtd_readmore.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors_codemirror.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors_codemirror.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors_none.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors_none.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors_tinymce.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_editors_tinymce.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_extension_joomla.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_extension_joomla.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_calendar.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_calendar.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_checkboxes.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_checkboxes.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_color.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_color.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_editor.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_editor.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_image.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_image.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_imagelist.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_imagelist.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_integer.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_integer.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_list.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_list.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_media.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_media.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_radio.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_radio.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_sql.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_sql.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_text.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_text.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_textarea.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_textarea.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_url.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_url.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_user.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_user.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_usergrouplist.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_fields_usergrouplist.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_categories.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_categories.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_contacts.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_contacts.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_content.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_content.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_newsfeeds.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_newsfeeds.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_tags.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_tags.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_weblinks.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_finder_weblinks.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_installer_folderinstaller.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_installer_folderinstaller.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_installer_packageinstaller.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_installer_packageinstaller.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_installer_urlinstaller.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_installer_urlinstaller.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_installer_webinstaller.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_installer_webinstaller.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_quickicon_extensionupdate.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_quickicon_extensionupdate.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_quickicon_joomlaupdate.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_quickicon_joomlaupdate.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_quickicon_phpversioncheck.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_quickicon_phpversioncheck.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_sampledata_blog.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_sampledata_blog.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_categories.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_categories.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_contacts.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_contacts.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_content.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_content.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_newsfeeds.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_newsfeeds.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_tags.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_tags.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_weblinks.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_search_weblinks.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_cache.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_cache.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_debug.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_debug.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_fields.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_fields.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_highlight.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_highlight.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_languagecode.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_languagecode.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_languagefilter.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_languagefilter.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_log.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_log.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_logout.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_logout.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_p3p.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_p3p.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_redirect.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_redirect.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_remember.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_remember.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_sef.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_sef.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_sessiongc.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_sessiongc.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_stats.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_stats.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_updatenotification.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_system_updatenotification.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_twofactorauth_totp.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_twofactorauth_totp.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_twofactorauth_yubikey.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_twofactorauth_yubikey.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_user_contactcreator.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_user_contactcreator.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_user_joomla.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_user_joomla.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_user_profile.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.plg_user_profile.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.tpl_hathor.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.tpl_hathor.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.tpl_isis.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.tpl_isis.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/language/pt-BR/pt-BR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/administrator/manifests/packages/pkg_pt-BR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/install.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_ajax.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_config.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_contact.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_content.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_finder.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_mailto.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_media.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_messages.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_newsfeeds.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_search.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_tags.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_users.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_weblinks.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.com_wrapper.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.files_joomla.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.finder_cli.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.lib_fof.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.lib_fof.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.lib_idna_convert.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.lib_joomla.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.lib_joomla.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.lib_phpass.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.lib_phputf8.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.lib_simplepie.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.localise.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_archive.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_archive.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_categories.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_categories.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_category.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_category.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_latest.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_latest.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_news.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_news.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_popular.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_articles_popular.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_banners.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_banners.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_breadcrumbs.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_breadcrumbs.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_custom.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_custom.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_feed.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_feed.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_finder.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_finder.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_footer.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_footer.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_languages.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_languages.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_login.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_login.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_menu.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_menu.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_random_image.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_random_image.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_related_items.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_related_items.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_search.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_search.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_stats.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_stats.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_syndicate.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_syndicate.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_tags_popular.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_tags_popular.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_tags_similar.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_tags_similar.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_users_latest.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_users_latest.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_weblinks.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_weblinks.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_whosonline.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_whosonline.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_wrapper.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.mod_wrapper.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.tpl_beez3.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.tpl_beez3.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.tpl_protostar.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.tpl_protostar.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/language/pt-BR/pt-BR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robots.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/administrator/templates/hathor/favicon.ico" afterPath="$PROJECT_DIR$/src/administrator/templates/hathor/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/administrator/templates/hathor/images/admin/blank.png" afterPath="$PROJECT_DIR$/src/administrator/templates/hathor/images/admin/blank.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/administrator/templates/hathor/images/admin/checked_out.png" afterPath="$PROJECT_DIR$/src/administrator/templates/hathor/images/admin/checked_out.png" />
@@ -1050,9 +1168,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/system/images/j_button2_right.png" afterPath="$PROJECT_DIR$/src/templates/system/images/j_button2_right.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/system/images/selector-arrow.png" afterPath="$PROJECT_DIR$/src/templates/system/images/selector-arrow.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker-compose.yml" afterPath="$PROJECT_DIR$/docker-compose.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infra/php-fpm/Dockerfile" afterPath="$PROJECT_DIR$/infra/php-fpm/Dockerfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LICENSE.txt" afterPath="$PROJECT_DIR$/src/LICENSE.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/README.txt" afterPath="$PROJECT_DIR$/src/README.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/administrator/cache/index.html" afterPath="$PROJECT_DIR$/src/administrator/cache/index.html" />
@@ -5987,7 +6102,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="60" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -6031,23 +6157,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="joomla-dockerio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joomla-dockerio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="joomla-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joomla-docker" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="joomla-dockerio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="joomla-dockerio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="joomla-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joomla-docker" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -6087,16 +6213,17 @@
       <workItem from="1528209386603" duration="1531000" />
       <workItem from="1528220403027" duration="8641000" />
       <workItem from="1528297156434" duration="6158000" />
+      <workItem from="1528315193295" duration="743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20008000" />
+    <option name="totallyTimeSpent" value="20751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1596" y="0" width="1608" height="903" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26251605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26572528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -6203,34 +6330,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/installation/sql/mysql/joomla.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-663">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="39" column="60" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/installation/sql/mysql/joomla.sql" />
     <entry file="file://$PROJECT_DIR$/infra/php-fpm/php-ini-overrides.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infra/php-fpm/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6239,7 +6343,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -6249,7 +6352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-160">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6257,7 +6359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6265,7 +6366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6273,7 +6373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6281,7 +6380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-357">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6289,7 +6387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6297,7 +6394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6313,7 +6409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6321,7 +6416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6329,7 +6423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6345,6 +6438,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infra/php-fpm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="60" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
           <folding />
         </state>
       </provider>

@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = 'Este site está fora do ar para manutenção.<br />Tente novamente mais tarde.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'Joomla - Docker';
+	public $sitename = 'Joomla Docker';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -16,14 +16,14 @@ class JConfig {
 	public $user = 'root';
 	public $password = 'root';
 	public $db = 'joomla_db';
-	public $dbprefix = 'axbmc_';
+	public $dbprefix = 'urzhc_';
 	public $live_site = '';
-	public $secret = 'mlVjg9sT05k8RTpp';
+	public $secret = 'zZfrRRoKB2PmI69r';
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'https://help.joomla.org/proxy?keyref=Help{major}{minor}:{keyref}&lang={langcode}';
-	public $ftp_host = '';
-	public $ftp_port = '';
+	public $ftp_host = '127.0.0.1';
+	public $ftp_port = '21';
 	public $ftp_user = '';
 	public $ftp_pass = '';
 	public $ftp_root = '';
@@ -32,7 +32,7 @@ class JConfig {
 	public $mailonline = '1';
 	public $mailer = 'mail';
 	public $mailfrom = 'rafael_xuvisco@yahoo.com.br';
-	public $fromname = 'Joomla - Docker';
+	public $fromname = 'Joomla Docker';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '0';
 	public $smtpuser = '';
